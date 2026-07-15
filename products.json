@@ -24,7 +24,7 @@
     "desc": "Replace with a real description of what this plan includes.",
     "paypal": "https://paypal.me/BillyJay616/10",
     "soldOut": false,
-    "visible": true,
+    "visible": false,
     "addedAt": 1000000000002
   },
   {
@@ -38,7 +38,7 @@
     "desc": "Replace with a real description of what this plan includes.",
     "paypal": "https://paypal.me/BillyJay616/18",
     "soldOut": false,
-    "visible": true,
+    "visible": false,
     "addedAt": 1000000000003
   },
   {
@@ -52,7 +52,7 @@
     "desc": "Replace with a real description of what this plan includes.",
     "paypal": "https://paypal.me/BillyJay616/30",
     "soldOut": false,
-    "visible": true,
+    "visible": false,
     "addedAt": 1000000000004
   },
   {
@@ -95,7 +95,7 @@
     "desc": "Replace with a real description of what's included.",
     "paypal": "https://paypal.me/BillyJay616/25",
     "soldOut": false,
-    "visible": true,
+    "visible": false,
     "addedAt": 1000000000007
   },
   {
@@ -109,7 +109,7 @@
     "desc": "Replace with a real description of what's included.",
     "paypal": "https://paypal.me/BillyJay616/40",
     "soldOut": false,
-    "visible": true,
+    "visible": false,
     "addedAt": 1000000000008
   },
   {
@@ -123,7 +123,7 @@
     "desc": "Replace with a real description of what's included.",
     "paypal": "https://paypal.me/BillyJay616/35",
     "soldOut": true,
-    "visible": true,
+    "visible": false,
     "addedAt": 1000000000009
   },
   {
