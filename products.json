@@ -40,6 +40,19 @@
   },
   {
     "id": "p_1000000000004",
+    "name": "Starter Plan",
+    "type": "rental",
+    "icon": "📦",
+    "badge": "popular",
+    "price": "5",
+    "unit": "/ month",
+    "desc": "Replace this with a real description of what this plan includes.",
+    "paypal": "https://paypal.me/BillyJay616/5",
+    "soldOut": false,
+    "addedAt": 1000000000004
+  },
+  {
+    "id": "p_1000000000005",
     "name": "Limited Item",
     "type": "purchase",
     "icon": "🎁",
@@ -49,6 +62,6 @@
     "desc": "Replace this with a real description of what's included.",
     "paypal": "https://paypal.me/BillyJay616/35",
     "soldOut": true,
-    "addedAt": 1000000000004
+    "addedAt": 1000000000005
   }
 ]
